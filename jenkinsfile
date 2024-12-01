@@ -12,7 +12,7 @@ pipeline {
             steps {
                 // Checkout your source code from version control
                 git branch: 'main', 
-                    url: 'https://github.com/your-username/your-repo.git'
+                    url: 'https://github.com/Shahikjahan100/selenium.git'
             }
         }
         
